@@ -1,2 +1,1 @@
-# LatentSpaceResearch.github.io
-Webpage
+# Latent Space Research Group
